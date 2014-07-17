@@ -1,5 +1,5 @@
 tstcdi1:
- url: tstcdi3.humaninference.com
+ url: tstcdi5.humaninference.com
  webapp_dir: /home/cdiuser/clustering/tomcat1/webapps/
  tomcat_string: clustering/tomcat1
  db: PostgresQL
